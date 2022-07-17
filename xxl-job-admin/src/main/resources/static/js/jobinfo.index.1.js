@@ -156,6 +156,7 @@ $(function() {
                                     '       <li><a href="javascript:void(0);" class="update" >'+ I18n.system_opt_edit +'</a></li>\n' +
                                     '       <li><a href="javascript:void(0);" class="job_operate" _type="job_del" >'+ I18n.system_opt_del +'</a></li>\n' +
 									'       <li><a href="javascript:void(0);" class="job_copy" >'+ I18n.system_opt_copy +'</a></li>\n' +
+									'       <li><a href="javascript:void(0);" class="job_export" >'+ I18n.system_opt_export +'</a></li>\n' +
                                     '     </ul>\n' +
                                     '   </div>';
 
